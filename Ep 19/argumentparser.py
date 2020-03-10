@@ -40,10 +40,10 @@ class ArgumentParser:
     def setAllAlgorithmsArguments(self):
         self.parser.add_argument('-RF', dest='random_forest', action="store_true", required=False, help="use random forest?")
         self.parser.add_argument('-DT', dest='decision_tree', action="store_true", required=False, help="use decision tree?")
-        self.parser.add_argument('-LR', dest='logistic_regression', action="store_true", required=False, help="use decision tree?")
+        self.parser.add_argument('-LR', dest='logistic_regression', action="store_true", required=False, help="use logistic regression?")
         self.parser.add_argument('-KNN', dest='knn', action="store_true", required=False, help="use knn?")
         self.parser.add_argument('-NB', dest='naive_bayes', action="store_true", required=False, help="use naive bayes?")
-        self.parser.add_argument('-SVM', dest='svm', action="store_true", required=False, help="use naive bayes?")
+        self.parser.add_argument('-SVM', dest='svm', action="store_true", required=False, help="use svm?")
         self.parser.add_argument('-ALL', dest='run_all', action="store_true", required=False, help="use all algorithms?")
         self.parser.add_argument('-time', dest='sort_by_time', action="store_true", required=False, help="sort algorithms by time, if more than one is being computed")
         self.parser.add_argument('--debug', action="store_true", required=False, help="print debug")

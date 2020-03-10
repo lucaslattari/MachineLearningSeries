@@ -227,17 +227,11 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.setBasicArguments()
     parser.setAllAlgorithmsArguments()
-    args = parser.getArguments()
-    if(args.run_all or args.random_forest):
-        parser.setRandomForestArguments()
-    if(args.run_all or args.logistic_regression):
-        parser.setLogisticRegressionArguments()
-    if(args.run_all or args.knn):
-        parser.setKNNArguments()
-    if(args.run_all or args.decision_tree):
-        parser.setDecisionTreeArguments()
-    if(args.run_all or args.svm):
-        parser.setSVMArguments()
+    parser.setRandomForestArguments()
+    parser.setLogisticRegressionArguments()
+    parser.setKNNArguments()
+    parser.setDecisionTreeArguments()
+    parser.setSVMArguments()
     args = parser.getArguments()
 
     if(args.cross_validation == False):
