@@ -37,7 +37,7 @@ O objetivo desse repositório é apresentar uma espécie de curso com tudo o que
 | 17  | Árvores de Decisão | [![Vídeo 17 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/u-rFRa8jbWc/mqdefault.jpg)](https://youtu.be/u-rFRa8jbWc) |
 | 18  | Random Forest | [![Vídeo 18 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/gBDYYLYtR6s/mqdefault.jpg)](https://youtu.be/gBDYYLYtR6s) |
 | 19  | Framework para Métodos de Classificação usando Linhas de Comando ; k-Fold para Validação Cruzada | [![Vídeo 19 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/baEA56ZcQ-c/mqdefault.jpg)](https://youtu.be/baEA56ZcQ-c) |
-| 20  | Curvas ROC | [![Vídeo 20 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/baEA56ZcQ-c/mqdefault.jpg)](https://youtu.be/lEceihXw6Fs) |
+| 20  | Curvas ROC | [![Vídeo 20 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/lEceihXw6Fs/mqdefault.jpg)](https://youtu.be/lEceihXw6Fs) |
 
 ### Aulas de Clusterização (Em Breve)
 
