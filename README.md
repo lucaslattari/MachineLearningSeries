@@ -1,10 +1,8 @@
 # Machine Learning
 
-## Vídeos
-
 O objetivo desse repositório é apresentar uma espécie de curso com tudo o que você precisa saber sobre o básico de Machine Learning usando Python e a Scikit-Learn. É esperado que você já tenha noções de programação com Python para melhor aproveitamento.
 
-### Aulas de Pré-Processamento de Dados
+## Aulas de Pré-Processamento de Dados
 
 | Índice | Tópico                               | Vídeo |
 | -------|:------------------------------------:|:------:|
@@ -12,7 +10,7 @@ O objetivo desse repositório é apresentar uma espécie de curso com tudo o que
 | 2  | Definindo Variáveis Categóricas usando One Hot Encoding ; Separação de Amostras em Teste e Treino | [![Vídeo 02 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/OKKFSMKj76M/mqdefault.jpg)](https://youtu.be/OKKFSMKj76M) |
 | 3  | Normalização de Dados | [![Vídeo 03 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/Uq_HX2PSevA/mqdefault.jpg)](https://youtu.be/Uq_HX2PSevA) |
 
-### Aulas de Regressão
+## Aulas de Regressão
 
 | Índice | Tópico                               | Vídeo |
 | -------|:------------------------------------:|:------:|
@@ -39,11 +37,11 @@ O objetivo desse repositório é apresentar uma espécie de curso com tudo o que
 | 19  | Framework para Métodos de Classificação usando Linhas de Comando ; k-Fold para Validação Cruzada | [![Vídeo 19 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/baEA56ZcQ-c/mqdefault.jpg)](https://youtu.be/baEA56ZcQ-c) |
 | 20  | Curvas ROC | [![Vídeo 20 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/lEceihXw6Fs/mqdefault.jpg)](https://youtu.be/lEceihXw6Fs) |
 
-### Aulas de Clusterização
+## Aulas de Clusterização
 
 | Índice | Tópico                               | Vídeo |
 | -------|:------------------------------------:|:------:|
 | 21.1  | K-Means, K-Means++ e Escolha do K (Teoria) | [![Vídeo 21.1 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/2hsMErlQtcI/mqdefault.jpg)](https://www.youtube.com/watch?v=2hsMErlQtcI) |
 | 21.2  | K-Means, K-Means++ e Escolha do K (Prática) | [![Vídeo 21.2 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/p2twwtegYkU/mqdefault.jpg)](https://youtu.be/p2twwtegYkU) |
 
-## Outros Vídeos Relacionados (Em Breve)
+# Outros Vídeos Relacionados (Em Breve)
