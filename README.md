@@ -43,5 +43,7 @@ O objetivo desse repositório é apresentar uma espécie de curso com tudo o que
 | -------|:------------------------------------:|:------:|
 | 21.1  | K-Means, K-Means++ e Escolha do K (Teoria) | [![Vídeo 21.1 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/2hsMErlQtcI/mqdefault.jpg)](https://www.youtube.com/watch?v=2hsMErlQtcI) |
 | 21.2  | K-Means, K-Means++ e Escolha do K (Prática) | [![Vídeo 21.2 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/p2twwtegYkU/mqdefault.jpg)](https://youtu.be/p2twwtegYkU) |
+| 22.1  | Clusterização Hierárquica (Teoria) | [![Vídeo 22.1 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/fPHJIkyYi7M/mqdefault.jpg)](https://www.youtube.com/watch?v=fPHJIkyYi7M) |
+| 22.2  | Clusterização Hierárquica (Prática) | [![Vídeo 22.2 da série de Machine Learning do canal Universo Discreto](https://img.youtube.com/vi/I-NSH_-Vm4g/mqdefault.jpg)](https://youtu.be/I-NSH_-Vm4g) |
 
 # Outros Vídeos Relacionados (Em Breve)
