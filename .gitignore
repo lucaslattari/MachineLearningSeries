@@ -1,4 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
+.virtual/
+virtual/
 env/
 *.log
